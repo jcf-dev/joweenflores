@@ -7,5 +7,3 @@
 ✅ Explorer of new technologies (Async Programming, AI & ML, etc..)  
 ✅ Love to test with "meow"  
   
-  
-#### hit me up: me(at)jcf(dot)digital
