@@ -1,6 +1,6 @@
 ### Hi there, I'm Joween. Nice to meet you! 👋
 
-✅ Fullstack Web Dev with Python Backend
+✅ Fullstack Web Dev with Python Backend  
 ✅ IT professional / DevOps  
 ✅ Have a habit of creating (useless, awesome.. you judge!) things from scratch  
 ✅ Casual FPS Gamer (mostly play Apex Legends)  
