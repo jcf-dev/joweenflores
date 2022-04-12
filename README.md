@@ -1,8 +1,8 @@
 ### Hi there, I'm Joween. Nice to meet you! 👋
 
-✅ Python / C# / Java / JS / HTML5 / CSS3  
+✅ Fullstack Web Dev with Python Backend
 ✅ IT professional / DevOps  
-✅ Have a habit of creating (useless) things from scratch  
-✅ Casual FPS Gamer (mostly Apex Legends)  
-✅ Explorer of new technologies (Async Programming, AI & ML, etc..)  
-✅ Love to test things by outputting "meow"  
+✅ Have a habit of creating (useless, awesome.. you judge!) things from scratch  
+✅ Casual FPS Gamer (mostly play Apex Legends)  
+✅ Explorer of new technologies (framworks, programming languages, tools, etc..)  
+✅ Love to test things by outputting ```meow``` on ``stdout`` or ``console``
